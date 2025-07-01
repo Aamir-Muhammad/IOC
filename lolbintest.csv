@@ -1,5 +1,5 @@
 Filename,Paths
-cmd.exe,C:\\Windows\\System32\\cmd.exe
-cmd.exe,C:\\Windows\\SysWOW64\\cmd.exe
 cmd.exe,C:\Windows\System32\cmd.exe
 cmd.exe,C:\Windows\SysWOW64\cmd.exe
+cmd.exe,C:\Windows\*\cmd.exe
+cmd.exe,C:\Windows\*\cmd.exe
