@@ -1,0 +1,958 @@
+Filename,Paths
+addinutil.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\AddinUtil.exe
+addinutil.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\AddinUtil.exe
+addinutil.exe,\Windows\Microsoft.NET\Framework\v3.5\AddInUtil.exe
+addinutil.exe,\Windows\Microsoft.NET\Framework64\v3.5\AddInUtil.exe
+appinstaller.exe,\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.11.2521.0_x64__8wekyb3d8bbwe\AppInstaller.exe
+aspnet_compiler.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe
+aspnet_compiler.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_compiler.exe
+at.exe,\WINDOWS\System32\At.exe
+at.exe,\WINDOWS\SysWOW64\At.exe
+atbroker.exe,\Windows\System32\Atbroker.exe
+atbroker.exe,\Windows\SysWOW64\Atbroker.exe
+bash.exe,\Windows\System32\bash.exe
+bash.exe,\Windows\SysWOW64\bash.exe
+bash.exe,\Windows\System32\bash.exe
+bash.exe,\Windows\SysWOW64\bash.exe
+bash.exe,\Windows\System32\bash.exe
+bash.exe,\Windows\SysWOW64\bash.exe
+bash.exe,\Windows\System32\bash.exe
+bash.exe,\Windows\SysWOW64\bash.exe
+bitsadmin.exe,\Windows\System32\bitsadmin.exe
+bitsadmin.exe,\Windows\SysWOW64\bitsadmin.exe
+bitsadmin.exe,\Windows\System32\bitsadmin.exe
+bitsadmin.exe,\Windows\SysWOW64\bitsadmin.exe
+bitsadmin.exe,\Windows\System32\bitsadmin.exe
+bitsadmin.exe,\Windows\SysWOW64\bitsadmin.exe
+bitsadmin.exe,\Windows\System32\bitsadmin.exe
+bitsadmin.exe,\Windows\SysWOW64\bitsadmin.exe
+certoc.exe,\windows\system32\certoc.exe
+certoc.exe,\windows\syswow64\certoc.exe
+certoc.exe,\windows\system32\certoc.exe
+certoc.exe,\windows\syswow64\certoc.exe
+certreq.exe,\Windows\System32\certreq.exe
+certreq.exe,\Windows\SysWOW64\certreq.exe
+certreq.exe,\Windows\System32\certreq.exe
+certreq.exe,\Windows\SysWOW64\certreq.exe
+certutil.exe,\Windows\System32\certutil.exe
+certutil.exe,\Windows\SysWOW64\certutil.exe
+certutil.exe,\Windows\System32\certutil.exe
+certutil.exe,\Windows\SysWOW64\certutil.exe
+certutil.exe,\Windows\System32\certutil.exe
+certutil.exe,\Windows\SysWOW64\certutil.exe
+certutil.exe,\Windows\System32\certutil.exe
+certutil.exe,\Windows\SysWOW64\certutil.exe
+certutil.exe,\Windows\System32\certutil.exe
+certutil.exe,\Windows\SysWOW64\certutil.exe
+certutil.exe,\Windows\System32\certutil.exe
+certutil.exe,\Windows\SysWOW64\certutil.exe
+certutil.exe,\Windows\System32\certutil.exe
+certutil.exe,\Windows\SysWOW64\certutil.exe
+cipher.exe,\windows\system32\cipher.exe
+cipher.exe,\windows\syswow64\cipher.exe
+cmd.exe,\Windows\System32\cmd.exe
+cmd.exe,\Windows\SysWOW64\cmd.exe
+cmd.exe,\Windows\System32\cmd.exe
+cmd.exe,\Windows\SysWOW64\cmd.exe
+cmd.exe,\Windows\System32\cmd.exe
+cmd.exe,\Windows\SysWOW64\cmd.exe
+cmd.exe,\Windows\System32\cmd.exe
+cmd.exe,\Windows\SysWOW64\cmd.exe
+cmdkey.exe,\Windows\System32\cmdkey.exe
+cmdkey.exe,\Windows\SysWOW64\cmdkey.exe
+cmdl32.exe,\Windows\System32\cmdl32.exe
+cmdl32.exe,\Windows\SysWOW64\cmdl32.exe
+cmstp.exe,\Windows\System32\cmstp.exe
+cmstp.exe,\Windows\SysWOW64\cmstp.exe
+cmstp.exe,\Windows\System32\cmstp.exe
+cmstp.exe,\Windows\SysWOW64\cmstp.exe
+colorcpl.exe,\Windows\System32\colorcpl.exe
+colorcpl.exe,\Windows\SysWOW64\colorcpl.exe
+computerdefaults.exe,\Windows\System32\ComputerDefaults.exe
+computerdefaults.exe,\Windows\SysWOW64\ComputerDefaults.exe
+configsecuritypolicy.exe,\Program Files\Windows Defender\ConfigSecurityPolicy.exe
+configsecuritypolicy.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.9-0\ConfigSecurityPolicy.exe
+configsecuritypolicy.exe,\Program Files\Windows Defender\ConfigSecurityPolicy.exe
+configsecuritypolicy.exe,\ProgramData\Microsoft\Windows Defender\Platform\*\ConfigSecurityPolicy.exe
+conhost.exe,\windows\system32\conhost.exe
+conhost.exe,\windows\system32\conhost.exe
+control.exe,\Windows\System32\control.exe
+control.exe,\Windows\SysWOW64\control.exe
+control.exe,\Windows\System32\control.exe
+control.exe,\Windows\SysWOW64\control.exe
+csc.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework\v3.5\csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework64\v3.5\csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework\v3.5\csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework64\v3.5\csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\csc.exe
+csc.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\csc.exe
+cscript.exe,\Windows\System32\cscript.exe
+cscript.exe,\Windows\SysWOW64\cscript.exe
+customshellhost.exe,\Windows\System32\CustomShellHost.exe
+datasvcutil.exe,\Windows\Microsoft.NET\Framework64\v3.5\DataSvcUtil.exe
+desktopimgdownldr.exe,\windows\system32\desktopimgdownldr.exe
+devicecredentialdeployment.exe,\Windows\System32\DeviceCredentialDeployment.exe
+dfsvc.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Dfsvc.exe
+dfsvc.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Dfsvc.exe
+dfsvc.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Dfsvc.exe
+dfsvc.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Dfsvc.exe
+diantz.exe,\windows\system32\diantz.exe
+diantz.exe,\windows\syswow64\diantz.exe
+diantz.exe,\windows\system32\diantz.exe
+diantz.exe,\windows\syswow64\diantz.exe
+diantz.exe,\windows\system32\diantz.exe
+diantz.exe,\windows\syswow64\diantz.exe
+diskshadow.exe,\Windows\System32\diskshadow.exe
+diskshadow.exe,\Windows\SysWOW64\diskshadow.exe
+diskshadow.exe,\Windows\System32\diskshadow.exe
+diskshadow.exe,\Windows\SysWOW64\diskshadow.exe
+dnscmd.exe,\Windows\System32\Dnscmd.exe
+dnscmd.exe,\Windows\SysWOW64\Dnscmd.exe
+esentutl.exe,\Windows\System32\esentutl.exe
+esentutl.exe,\Windows\SysWOW64\esentutl.exe
+esentutl.exe,\Windows\System32\esentutl.exe
+esentutl.exe,\Windows\SysWOW64\esentutl.exe
+esentutl.exe,\Windows\System32\esentutl.exe
+esentutl.exe,\Windows\SysWOW64\esentutl.exe
+esentutl.exe,\Windows\System32\esentutl.exe
+esentutl.exe,\Windows\SysWOW64\esentutl.exe
+esentutl.exe,\Windows\System32\esentutl.exe
+esentutl.exe,\Windows\SysWOW64\esentutl.exe
+esentutl.exe,\Windows\System32\esentutl.exe
+esentutl.exe,\Windows\SysWOW64\esentutl.exe
+eventvwr.exe,\Windows\System32\eventvwr.exe
+eventvwr.exe,\Windows\SysWOW64\eventvwr.exe
+eventvwr.exe,\Windows\System32\eventvwr.exe
+eventvwr.exe,\Windows\SysWOW64\eventvwr.exe
+expand.exe,\Windows\System32\Expand.exe
+expand.exe,\Windows\SysWOW64\Expand.exe
+expand.exe,\Windows\System32\Expand.exe
+expand.exe,\Windows\SysWOW64\Expand.exe
+expand.exe,\Windows\System32\Expand.exe
+expand.exe,\Windows\SysWOW64\Expand.exe
+explorer.exe,\Windows\explorer.exe
+explorer.exe,\Windows\SysWOW64\explorer.exe
+explorer.exe,\Windows\explorer.exe
+explorer.exe,\Windows\SysWOW64\explorer.exe
+extexport.exe,\Program Files\Internet Explorer\Extexport.exe
+extexport.exe,\Program Files (x86)\Internet Explorer\Extexport.exe
+extrac32.exe,\Windows\System32\extrac32.exe
+extrac32.exe,\Windows\SysWOW64\extrac32.exe
+extrac32.exe,\Windows\System32\extrac32.exe
+extrac32.exe,\Windows\SysWOW64\extrac32.exe
+extrac32.exe,\Windows\System32\extrac32.exe
+extrac32.exe,\Windows\SysWOW64\extrac32.exe
+extrac32.exe,\Windows\System32\extrac32.exe
+extrac32.exe,\Windows\SysWOW64\extrac32.exe
+findstr.exe,\Windows\System32\findstr.exe
+findstr.exe,\Windows\SysWOW64\findstr.exe
+findstr.exe,\Windows\System32\findstr.exe
+findstr.exe,\Windows\SysWOW64\findstr.exe
+findstr.exe,\Windows\System32\findstr.exe
+findstr.exe,\Windows\SysWOW64\findstr.exe
+findstr.exe,\Windows\System32\findstr.exe
+findstr.exe,\Windows\SysWOW64\findstr.exe
+finger.exe,\windows\system32\finger.exe
+finger.exe,\windows\syswow64\finger.exe
+fltmc.exe,\Windows\System32\fltMC.exe
+forfiles.exe,\Windows\System32\forfiles.exe
+forfiles.exe,\Windows\SysWOW64\forfiles.exe
+forfiles.exe,\Windows\System32\forfiles.exe
+forfiles.exe,\Windows\SysWOW64\forfiles.exe
+fsutil.exe,\Windows\System32\fsutil.exe
+fsutil.exe,\Windows\SysWOW64\fsutil.exe
+fsutil.exe,\Windows\System32\fsutil.exe
+fsutil.exe,\Windows\SysWOW64\fsutil.exe
+fsutil.exe,\Windows\System32\fsutil.exe
+fsutil.exe,\Windows\SysWOW64\fsutil.exe
+ftp.exe,\Windows\System32\ftp.exe
+ftp.exe,\Windows\SysWOW64\ftp.exe
+ftp.exe,\Windows\System32\ftp.exe
+ftp.exe,\Windows\SysWOW64\ftp.exe
+gpscript.exe,\Windows\System32\gpscript.exe
+gpscript.exe,\Windows\SysWOW64\gpscript.exe
+gpscript.exe,\Windows\System32\gpscript.exe
+gpscript.exe,\Windows\SysWOW64\gpscript.exe
+hh.exe,\Windows\hh.exe
+hh.exe,\Windows\SysWOW64\hh.exe
+hh.exe,\Windows\hh.exe
+hh.exe,\Windows\SysWOW64\hh.exe
+hh.exe,\Windows\hh.exe
+hh.exe,\Windows\SysWOW64\hh.exe
+imewdbld.exe,\Windows\System32\IME\SHARED\IMEWDBLD.exe
+ie4uinit.exe,\windows\system32\ie4uinit.exe
+ie4uinit.exe,\windows\sysWOW64\ie4uinit.exe
+ie4uinit.exe,\windows\system32\ieuinit.inf
+ie4uinit.exe,\windows\sysWOW64\ieuinit.inf
+iediagcmd.exe,\Program Files\Internet Explorer\iediagcmd.exe
+ieexec.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\ieexec.exe
+ieexec.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\ieexec.exe
+ieexec.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\ieexec.exe
+ieexec.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\ieexec.exe
+ilasm.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\ilasm.exe
+ilasm.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\ilasm.exe
+ilasm.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\ilasm.exe
+ilasm.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\ilasm.exe
+infdefaultinstall.exe,\Windows\System32\Infdefaultinstall.exe
+infdefaultinstall.exe,\Windows\SysWOW64\Infdefaultinstall.exe
+installutil.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+installutil.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe
+jsc.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Jsc.exe
+jsc.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Jsc.exe
+jsc.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Jsc.exe
+jsc.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Jsc.exe
+jsc.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Jsc.exe
+jsc.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Jsc.exe
+jsc.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Jsc.exe
+jsc.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Jsc.exe
+ldifde.exe,\windows\system32\ldifde.exe
+ldifde.exe,\windows\syswow64\ldifde.exe
+makecab.exe,\Windows\System32\makecab.exe
+makecab.exe,\Windows\SysWOW64\makecab.exe
+makecab.exe,\Windows\System32\makecab.exe
+makecab.exe,\Windows\SysWOW64\makecab.exe
+makecab.exe,\Windows\System32\makecab.exe
+makecab.exe,\Windows\SysWOW64\makecab.exe
+makecab.exe,\Windows\System32\makecab.exe
+makecab.exe,\Windows\SysWOW64\makecab.exe
+mavinject.exe,\Windows\System32\mavinject.exe
+mavinject.exe,\Windows\SysWOW64\mavinject.exe
+mavinject.exe,\Windows\System32\mavinject.exe
+mavinject.exe,\Windows\SysWOW64\mavinject.exe
+microsoft.workflow.compiler.exe,\Windows\Microsoft.Net\Framework64\v4.0.30319\Microsoft.Workflow.Compiler.exe
+microsoft.workflow.compiler.exe,\Windows\Microsoft.Net\Framework64\v4.0.30319\Microsoft.Workflow.Compiler.exe
+microsoft.workflow.compiler.exe,\Windows\Microsoft.Net\Framework64\v4.0.30319\Microsoft.Workflow.Compiler.exe
+mmc.exe,\Windows\System32\mmc.exe
+mmc.exe,\Windows\SysWOW64\mmc.exe
+mmc.exe,\Windows\System32\mmc.exe
+mmc.exe,\Windows\SysWOW64\mmc.exe
+mmc.exe,\Windows\System32\mmc.exe
+mmc.exe,\Windows\SysWOW64\mmc.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\*\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.4-0\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.7-0\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.9-0\MpCmdRun.exe
+mpcmdrun.exe,\Program Files\Windows Defender\MpCmdRun.exe
+mpcmdrun.exe,\Program Files (x86)\Windows Defender\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\X86\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.4-0\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.7-0\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.9-0\MpCmdRun.exe
+mpcmdrun.exe,\Program Files\Windows Defender\MpCmdRun.exe
+mpcmdrun.exe,\Program Files (x86)\Windows Defender\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\X86\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.4-0\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.7-0\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.9-0\MpCmdRun.exe
+mpcmdrun.exe,\Program Files\Windows Defender\MpCmdRun.exe
+mpcmdrun.exe,\Program Files (x86)\Windows Defender\MpCmdRun.exe
+mpcmdrun.exe,\ProgramData\Microsoft\Windows Defender\Platform\4.18.23110.3-0\X86\MpCmdRun.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe
+msbuild.exe,\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe
+msbuild.exe,\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe
+msbuild.exe,\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe
+msbuild.exe,\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v3.5\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\Msbuild.exe
+msbuild.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe
+msbuild.exe,\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
+msconfig.exe,\Windows\System32\msconfig.exe
+msdt.exe,\Windows\System32\Msdt.exe
+msdt.exe,\Windows\SysWOW64\Msdt.exe
+msdt.exe,\Windows\System32\Msdt.exe
+msdt.exe,\Windows\SysWOW64\Msdt.exe
+msdt.exe,\Windows\System32\Msdt.exe
+msdt.exe,\Windows\SysWOW64\Msdt.exe
+msedge.exe,\Program Files\Microsoft\Edge\Application\msedge.exe
+msedge.exe,\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+msedge.exe,\Program Files\Microsoft\Edge\Application\msedge.exe
+msedge.exe,\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+msedge.exe,\Program Files\Microsoft\Edge\Application\msedge.exe
+msedge.exe,\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+mshta.exe,\Windows\System32\mshta.exe
+mshta.exe,\Windows\SysWOW64\mshta.exe
+mshta.exe,\Windows\System32\mshta.exe
+mshta.exe,\Windows\SysWOW64\mshta.exe
+mshta.exe,\Windows\System32\mshta.exe
+mshta.exe,\Windows\SysWOW64\mshta.exe
+mshta.exe,\Windows\System32\mshta.exe
+mshta.exe,\Windows\SysWOW64\mshta.exe
+mshta.exe,\Windows\System32\mshta.exe
+mshta.exe,\Windows\SysWOW64\mshta.exe
+msiexec.exe,\Windows\System32\msiexec.exe
+msiexec.exe,\Windows\SysWOW64\msiexec.exe
+msiexec.exe,\Windows\System32\msiexec.exe
+msiexec.exe,\Windows\SysWOW64\msiexec.exe
+msiexec.exe,\Windows\System32\msiexec.exe
+msiexec.exe,\Windows\SysWOW64\msiexec.exe
+msiexec.exe,\Windows\System32\msiexec.exe
+msiexec.exe,\Windows\SysWOW64\msiexec.exe
+msiexec.exe,\Windows\System32\msiexec.exe
+msiexec.exe,\Windows\SysWOW64\msiexec.exe
+netsh.exe,\WINDOWS\System32\Netsh.exe
+netsh.exe,\WINDOWS\SysWOW64\Netsh.exe
+ngen.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\ngen.exe
+ngen.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\ngen.exe
+ngen.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe
+ngen.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe
+odbcconf.exe,\Windows\System32\odbcconf.exe
+odbcconf.exe,\Windows\SysWOW64\odbcconf.exe
+odbcconf.exe,\Windows\System32\odbcconf.exe
+odbcconf.exe,\Windows\SysWOW64\odbcconf.exe
+odbcconf.exe,\Windows\System32\odbcconf.exe
+odbcconf.exe,\Windows\SysWOW64\odbcconf.exe
+offlinescannershell.exe,\Program Files\Windows Defender\Offline\OfflineScannerShell.exe
+onedrivestandaloneupdater.exe,\Users\*\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe
+onedrivestandaloneupdater.exe,\Program Files\Microsoft OneDrive\OneDriveStandaloneUpdater.exe
+onedrivestandaloneupdater.exe,\Program Files (x86)\Microsoft OneDrive\OneDriveStandaloneUpdater.exe
+pcalua.exe,\Windows\System32\pcalua.exe
+pcalua.exe,\Windows\System32\pcalua.exe
+pcalua.exe,\Windows\System32\pcalua.exe
+pcwrun.exe,\Windows\System32\pcwrun.exe
+pcwrun.exe,\Windows\System32\pcwrun.exe
+pktmon.exe,\windows\system32\pktmon.exe
+pktmon.exe,\windows\syswow64\pktmon.exe
+pktmon.exe,\windows\system32\pktmon.exe
+pktmon.exe,\windows\syswow64\pktmon.exe
+pnputil.exe,\Windows\system32\pnputil.exe
+presentationhost.exe,\Windows\System32\Presentationhost.exe
+presentationhost.exe,\Windows\SysWOW64\Presentationhost.exe
+presentationhost.exe,\Windows\System32\Presentationhost.exe
+presentationhost.exe,\Windows\SysWOW64\Presentationhost.exe
+print.exe,\Windows\System32\print.exe
+print.exe,\Windows\SysWOW64\print.exe
+print.exe,\Windows\System32\print.exe
+print.exe,\Windows\SysWOW64\print.exe
+print.exe,\Windows\System32\print.exe
+print.exe,\Windows\SysWOW64\print.exe
+printbrm.exe,\Windows\System32\spool\tools\PrintBrm.exe
+printbrm.exe,\Windows\System32\spool\tools\PrintBrm.exe
+provlaunch.exe,\windows\system32\provlaunch.exe
+psr.exe,\windows\system32\psr.exe
+psr.exe,\windows\syswow64\psr.exe
+rasautou.exe,\Windows\System32\rasautou.exe
+rdrleakdiag.exe,\windows\system32\rdrleakdiag.exe
+rdrleakdiag.exe,\Windows\SysWOW64\rdrleakdiag.exe
+rdrleakdiag.exe,\windows\system32\rdrleakdiag.exe
+rdrleakdiag.exe,\Windows\SysWOW64\rdrleakdiag.exe
+rdrleakdiag.exe,\windows\system32\rdrleakdiag.exe
+rdrleakdiag.exe,\Windows\SysWOW64\rdrleakdiag.exe
+reg.exe,\Windows\System32\reg.exe
+reg.exe,\Windows\SysWOW64\reg.exe
+reg.exe,\Windows\System32\reg.exe
+reg.exe,\Windows\SysWOW64\reg.exe
+regasm.exe,\Windows\Microsoft.NET\Framework\v*\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe
+regasm.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\regasm.exe
+regedit.exe,\Windows\regedit.exe
+regedit.exe,\Windows\regedit.exe
+regini.exe,\Windows\System32\regini.exe
+regini.exe,\Windows\SysWOW64\regini.exe
+register-cimprovider.exe,\Windows\System32\Register-cimprovider.exe
+register-cimprovider.exe,\Windows\SysWOW64\Register-cimprovider.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\RegSvcs.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\RegSvcs.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\RegSvcs.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\RegSvcs.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe
+regsvcs.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe
+regsvr32.exe,\Windows\System32\regsvr32.exe
+regsvr32.exe,\Windows\SysWOW64\regsvr32.exe
+regsvr32.exe,\Windows\System32\regsvr32.exe
+regsvr32.exe,\Windows\SysWOW64\regsvr32.exe
+regsvr32.exe,\Windows\System32\regsvr32.exe
+regsvr32.exe,\Windows\SysWOW64\regsvr32.exe
+regsvr32.exe,\Windows\System32\regsvr32.exe
+regsvr32.exe,\Windows\SysWOW64\regsvr32.exe
+replace.exe,\Windows\System32\replace.exe
+replace.exe,\Windows\SysWOW64\replace.exe
+replace.exe,\Windows\System32\replace.exe
+replace.exe,\Windows\SysWOW64\replace.exe
+rpcping.exe,\Windows\System32\rpcping.exe
+rpcping.exe,\Windows\SysWOW64\rpcping.exe
+rpcping.exe,\Windows\System32\rpcping.exe
+rpcping.exe,\Windows\SysWOW64\rpcping.exe
+rundll32.exe,\Windows\System32\rundll32.exe
+rundll32.exe,\Windows\SysWOW64\rundll32.exe
+rundll32.exe,\Windows\System32\rundll32.exe
+rundll32.exe,\Windows\SysWOW64\rundll32.exe
+rundll32.exe,\Windows\System32\rundll32.exe
+rundll32.exe,\Windows\SysWOW64\rundll32.exe
+rundll32.exe,\Windows\System32\rundll32.exe
+rundll32.exe,\Windows\SysWOW64\rundll32.exe
+rundll32.exe,\Windows\System32\rundll32.exe
+rundll32.exe,\Windows\SysWOW64\rundll32.exe
+runexehelper.exe,\windows\system32\runexehelper.exe
+runonce.exe,\Windows\System32\runonce.exe
+runonce.exe,\Windows\SysWOW64\runonce.exe
+runscripthelper.exe,\Windows\WinSxS\amd64_microsoft-windows-u..ed-telemetry-client_31bf3856ad364e35_10.0.16299.15_none_c2df1bba78111118\Runscripthelper.exe
+runscripthelper.exe,\Windows\WinSxS\amd64_microsoft-windows-u..ed-telemetry-client_31bf3856ad364e35_10.0.16299.192_none_ad4699b571e00c4a\Runscripthelper.exe
+sc.exe,\Windows\System32\sc.exe
+sc.exe,\Windows\SysWOW64\sc.exe
+sc.exe,\Windows\System32\sc.exe
+sc.exe,\Windows\SysWOW64\sc.exe
+schtasks.exe,\windows\system32\schtasks.exe
+schtasks.exe,\windows\syswow64\schtasks.exe
+schtasks.exe,\windows\system32\schtasks.exe
+schtasks.exe,\windows\syswow64\schtasks.exe
+scriptrunner.exe,\Windows\System32\scriptrunner.exe
+scriptrunner.exe,\Windows\SysWOW64\scriptrunner.exe
+scriptrunner.exe,\Windows\System32\scriptrunner.exe
+scriptrunner.exe,\Windows\SysWOW64\scriptrunner.exe
+setres.exe,\windows\system32\setres.exe
+settingsynchost.exe,\Windows\System32\SettingSyncHost.exe
+settingsynchost.exe,\Windows\SysWOW64\SettingSyncHost.exe
+settingsynchost.exe,\Windows\System32\SettingSyncHost.exe
+settingsynchost.exe,\Windows\SysWOW64\SettingSyncHost.exe
+sftp.exe,\Windows\System32\OpenSSH\sftp.exe
+ssh.exe,\windows\system32\OpenSSH\ssh.exe
+ssh.exe,\windows\system32\OpenSSH\ssh.exe
+stordiag.exe,\windows\system32\stordiag.exe
+stordiag.exe,\windows\syswow64\stordiag.exe
+stordiag.exe,\windows\system32\stordiag.exe
+stordiag.exe,\windows\syswow64\stordiag.exe
+syncappvpublishingserver.exe,\Windows\System32\SyncAppvPublishingServer.exe
+syncappvpublishingserver.exe,\Windows\SysWOW64\SyncAppvPublishingServer.exe
+tar.exe,\Windows\System32\tar.exe
+tar.exe,\Windows\SysWOW64\tar.exe
+tar.exe,\Windows\System32\tar.exe
+tar.exe,\Windows\SysWOW64\tar.exe
+tar.exe,\Windows\System32\tar.exe
+tar.exe,\Windows\SysWOW64\tar.exe
+ttdinject.exe,\Windows\System32\ttdinject.exe
+ttdinject.exe,\Windows\Syswow64\ttdinject.exe
+ttdinject.exe,\Windows\System32\ttdinject.exe
+ttdinject.exe,\Windows\Syswow64\ttdinject.exe
+tttracer.exe,\Windows\System32\tttracer.exe
+tttracer.exe,\Windows\SysWOW64\tttracer.exe
+tttracer.exe,\Windows\System32\tttracer.exe
+tttracer.exe,\Windows\SysWOW64\tttracer.exe
+unregmp2.exe,\Windows\System32\unregmp2.exe
+unregmp2.exe,\Windows\SysWOW64\unregmp2.exe
+vbc.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework\v3.5\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework64\v3.5\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework\v3.5\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework\v2.0.50727\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework64\v4.0.30319\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework64\v3.5\vbc.exe
+vbc.exe,\Windows\Microsoft.NET\Framework64\v2.0.50727\vbc.exe
+verclsid.exe,\Windows\System32\verclsid.exe
+verclsid.exe,\Windows\SysWOW64\verclsid.exe
+wab.exe,\Program Files\Windows Mail\wab.exe
+wab.exe,\Program Files (x86)\Windows Mail\wab.exe
+wbadmin.exe,\Windows\System32\wbadmin.exe
+wbadmin.exe,\Windows\System32\wbadmin.exe
+wbemtest.exe,\windows\system32\wbem\wbemtest.exe
+winget.exe,\Users\user\AppData\Local\Microsoft\WindowsApps\winget.exe
+winget.exe,\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_*_x64__8wekyb3d8bbwe\winget.exe
+winget.exe,\Users\user\AppData\Local\Microsoft\WindowsApps\winget.exe
+wlrmdr.exe,\windows\system32\wlrmdr.exe
+wmic.exe,\Windows\System32\wbem\wmic.exe
+wmic.exe,\Windows\SysWOW64\wbem\wmic.exe
+wmic.exe,\Windows\System32\wbem\wmic.exe
+wmic.exe,\Windows\SysWOW64\wbem\wmic.exe
+wmic.exe,\Windows\System32\wbem\wmic.exe
+wmic.exe,\Windows\SysWOW64\wbem\wmic.exe
+wmic.exe,\Windows\System32\wbem\wmic.exe
+wmic.exe,\Windows\SysWOW64\wbem\wmic.exe
+wmic.exe,\Windows\System32\wbem\wmic.exe
+wmic.exe,\Windows\SysWOW64\wbem\wmic.exe
+wmic.exe,\Windows\System32\wbem\wmic.exe
+wmic.exe,\Windows\SysWOW64\wbem\wmic.exe
+workfolders.exe,\Windows\System32\WorkFolders.exe
+wscript.exe,\Windows\System32\wscript.exe
+wscript.exe,\Windows\SysWOW64\wscript.exe
+wscript.exe,\Windows\System32\wscript.exe
+wscript.exe,\Windows\SysWOW64\wscript.exe
+wsreset.exe,\Windows\System32\wsreset.exe
+wuauclt.exe,\Windows\System32\wuauclt.exe
+wuauclt.exe,\Windows\UUS\amd64\wuauclt.exe
+xwizard.exe,\Windows\System32\xwizard.exe
+xwizard.exe,\Windows\SysWOW64\xwizard.exe
+xwizard.exe,\Windows\System32\xwizard.exe
+xwizard.exe,\Windows\SysWOW64\xwizard.exe
+xwizard.exe,\Windows\System32\xwizard.exe
+xwizard.exe,\Windows\SysWOW64\xwizard.exe
+msedge_proxy.exe,\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe
+msedge_proxy.exe,\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\Edge\Application\114.0.1823.43\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\EdgeWebView\Application\131.0.2903.70\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\Edge\Application\114.0.1823.43\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\EdgeWebView\Application\131.0.2903.70\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\Edge\Application\114.0.1823.43\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\EdgeWebView\Application\131.0.2903.70\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\Edge\Application\114.0.1823.43\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\EdgeWebView\Application\131.0.2903.70\msedgewebview2.exe
+msedgewebview2.exe,\Program Files (x86)\Microsoft\EdgeWebView\Application\*\msedgewebview2.exe
+wt.exe,\Program Files\WindowsApps\Microsoft.WindowsTerminal_*\wt.exe
+advpack.dll,\windows\system32\advpack.dll
+advpack.dll,\windows\syswow64\advpack.dll
+advpack.dll,\windows\system32\advpack.dll
+advpack.dll,\windows\syswow64\advpack.dll
+advpack.dll,\windows\system32\advpack.dll
+advpack.dll,\windows\syswow64\advpack.dll
+advpack.dll,\windows\system32\advpack.dll
+advpack.dll,\windows\syswow64\advpack.dll
+advpack.dll,\windows\system32\advpack.dll
+advpack.dll,\windows\syswow64\advpack.dll
+desk.cpl,\Windows\System32\desk.cpl
+desk.cpl,\Windows\SysWOW64\desk.cpl
+desk.cpl,\Windows\System32\desk.cpl
+desk.cpl,\Windows\SysWOW64\desk.cpl
+dfshim.dll,\Windows\Microsoft.NET\Framework\v2.0.50727\Dfsvc.exe
+dfshim.dll,\Windows\Microsoft.NET\Framework64\v2.0.50727\Dfsvc.exe
+dfshim.dll,\Windows\Microsoft.NET\Framework\v4.0.30319\Dfsvc.exe
+dfshim.dll,\Windows\Microsoft.NET\Framework64\v4.0.30319\Dfsvc.exe
+ieadvpack.dll,\windows\system32\ieadvpack.dll
+ieadvpack.dll,\windows\syswow64\ieadvpack.dll
+ieadvpack.dll,\windows\system32\ieadvpack.dll
+ieadvpack.dll,\windows\syswow64\ieadvpack.dll
+ieadvpack.dll,\windows\system32\ieadvpack.dll
+ieadvpack.dll,\windows\syswow64\ieadvpack.dll
+ieadvpack.dll,\windows\system32\ieadvpack.dll
+ieadvpack.dll,\windows\syswow64\ieadvpack.dll
+ieadvpack.dll,\windows\system32\ieadvpack.dll
+ieadvpack.dll,\windows\syswow64\ieadvpack.dll
+ieframe.dll,\windows\system32\ieframe.dll
+ieframe.dll,\windows\syswow64\ieframe.dll
+mshtml.dll,\windows\system32\mshtml.dll
+mshtml.dll,\windows\syswow64\mshtml.dll
+pcwutl.dll,\windows\system32\pcwutl.dll
+pcwutl.dll,\windows\syswow64\pcwutl.dll
+photoviewer.dll,\Program Files\Windows Photo Viewer\PhotoViewer.dll
+photoviewer.dll,\Program Files (x86)\Windows Photo Viewer\PhotoViewer.dll
+scrobj.dll,\windows\system32\scrobj.dll
+scrobj.dll,\windows\syswow64\scrobj.dll
+setupapi.dll,\windows\system32\setupapi.dll
+setupapi.dll,\windows\syswow64\setupapi.dll
+setupapi.dll,\windows\system32\setupapi.dll
+setupapi.dll,\windows\syswow64\setupapi.dll
+shdocvw.dll,\windows\system32\shdocvw.dll
+shdocvw.dll,\windows\syswow64\shdocvw.dll
+shell32.dll,\windows\system32\shell32.dll
+shell32.dll,\windows\syswow64\shell32.dll
+shell32.dll,\windows\system32\shell32.dll
+shell32.dll,\windows\syswow64\shell32.dll
+shell32.dll,\windows\system32\shell32.dll
+shell32.dll,\windows\syswow64\shell32.dll
+shell32.dll,\windows\system32\shell32.dll
+shell32.dll,\windows\syswow64\shell32.dll
+shimgvw.dll,\windows\system32\shimgvw.dll
+shimgvw.dll,\windows\syswow64\shimgvw.dll
+syssetup.dll,\windows\system32\syssetup.dll
+syssetup.dll,\windows\syswow64\syssetup.dll
+syssetup.dll,\windows\system32\syssetup.dll
+syssetup.dll,\windows\syswow64\syssetup.dll
+url.dll,\windows\system32\url.dll
+url.dll,\windows\syswow64\url.dll
+url.dll,\windows\system32\url.dll
+url.dll,\windows\syswow64\url.dll
+url.dll,\windows\system32\url.dll
+url.dll,\windows\syswow64\url.dll
+url.dll,\windows\system32\url.dll
+url.dll,\windows\syswow64\url.dll
+url.dll,\windows\system32\url.dll
+url.dll,\windows\syswow64\url.dll
+url.dll,\windows\system32\url.dll
+url.dll,\windows\syswow64\url.dll
+zipfldr.dll,\windows\system32\zipfldr.dll
+zipfldr.dll,\windows\syswow64\zipfldr.dll
+zipfldr.dll,\windows\system32\zipfldr.dll
+zipfldr.dll,\windows\syswow64\zipfldr.dll
+comsvcs.dll,\windows\system32\comsvcs.dll
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x86\AccChecker\AccCheckConsole.exe
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x64\AccChecker\AccCheckConsole.exe
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\arm\AccChecker\AccCheckConsole.exe
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\arm64\AccChecker\AccCheckConsole.exe
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x86\AccChecker\AccCheckConsole.exe
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x64\AccChecker\AccCheckConsole.exe
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\arm\AccChecker\AccCheckConsole.exe
+acccheckconsole.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\arm64\AccChecker\AccCheckConsole.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\adplus.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\adplus.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\adplus.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\adplus.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\adplus.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\adplus.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\adplus.exe
+adplus.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\adplus.exe
+agentexecutor.exe,\Program Files (x86)\Microsoft Intune Management Extension\AgentExecutor.exe
+agentexecutor.exe,\Program Files (x86)\Microsoft Intune Management Extension\AgentExecutor.exe
+appcert.exe,\Program Files (x86)\Windows Kits\10\App Certification Kit\appcert.exe
+appcert.exe,\Program Files\Windows Kits\10\App Certification Kit\appcert.exe
+appcert.exe,\Program Files (x86)\Windows Kits\10\App Certification Kit\appcert.exe
+appcert.exe,\Program Files\Windows Kits\10\App Certification Kit\appcert.exe
+appvlp.exe,\Program Files\Microsoft Office\root\client\appvlp.exe
+appvlp.exe,\Program Files (x86)\Microsoft Office\root\client\appvlp.exe
+appvlp.exe,\Program Files\Microsoft Office\root\client\appvlp.exe
+appvlp.exe,\Program Files (x86)\Microsoft Office\root\client\appvlp.exe
+bginfo.exe,no default
+bginfo.exe,no default
+bginfo.exe,no default
+bginfo.exe,no default
+bginfo.exe,no default
+bginfo.exe,no default
+cdb.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\cdb.exe
+cdb.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\cdb.exe
+cdb.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\cdb.exe
+cdb.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\cdb.exe
+cdb.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\cdb.exe
+cdb.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\cdb.exe
+coregen.exe,\Program Files\Microsoft Silverlight\5.1.50918.0\coregen.exe
+coregen.exe,\Program Files (x86)\Microsoft Silverlight\5.1.50918.0\coregen.exe
+coregen.exe,\Program Files\Microsoft Silverlight\5.1.50918.0\coregen.exe
+coregen.exe,\Program Files (x86)\Microsoft Silverlight\5.1.50918.0\coregen.exe
+coregen.exe,\Program Files\Microsoft Silverlight\5.1.50918.0\coregen.exe
+coregen.exe,\Program Files (x86)\Microsoft Silverlight\5.1.50918.0\coregen.exe
+createdump.exe,\Program Files\dotnet\shared\Microsoft.NETCore.App\*\createdump.exe
+createdump.exe,\Program Files (x86)\dotnet\shared\Microsoft.NETCore.App\*\createdump.exe
+createdump.exe,\Program Files\Microsoft Visual Studio\*\Community\dotnet\runtime\shared\Microsoft.NETCore.App\6.0.0\createdump.exe
+createdump.exe,\Program Files (x86)\Microsoft Visual Studio\*\Community\dotnet\runtime\shared\Microsoft.NETCore.App\6.0.0\createdump.exe
+csi.exe,\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Roslyn\csi.exe
+csi.exe,\Program Files (x86)\Microsoft Web Tools\Packages\Microsoft.Net.Compilers.X.Y.Z\tools\csi.exe
+defaultpack.exe,\Program Files (x86)\Microsoft\DefaultPack\DefaultPack.exe
+devinit.exe,\Program Files\Microsoft Visual Studio\*\Community\Common7\Tools\devinit\devinit.exe
+devinit.exe,\Program Files (x86)\Microsoft Visual Studio\*\Community\Common7\Tools\devinit\devinit.exe
+devtoolslauncher.exe,\windows\system32\devtoolslauncher.exe
+devtoolslauncher.exe,\windows\system32\devtoolslauncher.exe
+dnx.exe,no default
+dotnet.exe,\Program Files\dotnet\dotnet.exe
+dotnet.exe,\Program Files\dotnet\dotnet.exe
+dotnet.exe,\Program Files (x86)\dotnet\dotnet.exe
+dotnet.exe,\Program Files\dotnet\dotnet.exe
+dsdbutil.exe,\Windows\System32\dsdbutil.exe
+dsdbutil.exe,\Windows\SysWOW64\dsdbutil.exe
+dsdbutil.exe,\Windows\System32\dsdbutil.exe
+dsdbutil.exe,\Windows\SysWOW64\dsdbutil.exe
+dsdbutil.exe,\Windows\System32\dsdbutil.exe
+dsdbutil.exe,\Windows\SysWOW64\dsdbutil.exe
+dsdbutil.exe,\Windows\System32\dsdbutil.exe
+dsdbutil.exe,\Windows\SysWOW64\dsdbutil.exe
+dsdbutil.exe,\Windows\System32\dsdbutil.exe
+dsdbutil.exe,\Windows\SysWOW64\dsdbutil.exe
+dtutil.exe,\Program Files\Microsoft SQL Server\*\DTS\Binn\dtutil.exe
+dtutil.exe,\Program Files (x86)\Microsoft SQL Server\*\DTS\Binn\dtutil.exe
+dump64.exe,\Program Files (x86)\Microsoft Visual Studio\Installer\Feedback\dump64.exe
+dumpminitool.exe,\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\DumpMinitool.exe
+dxcap.exe,\Windows\System32\dxcap.exe
+dxcap.exe,\Windows\SysWOW64\dxcap.exe
+ecmangen.exe,\Program Files (x86)\Microsoft SDKs\Windows\*\Bin\ECMangen.exe
+ecmangen.exe,\Program Files (x86)\Microsoft SDKs\Windows\*\Bin\x64\ECMangen.exe
+ecmangen.exe,\Program Files\Microsoft\Exchange Server\*\Bin\ECMangen.exe
+ecmangen.exe,\Program Files\Microsoft\Exchange Server\Bin\ECMangen.exe
+ecmangen.exe,\Program Files\Microsoft\Exchange Server\ClientAccess\Bin\ECMangen.exe
+ecmangen.exe,\ExchangeServer\Bin\ECMangen.exe
+excel.exe,\Program Files (x86)\Microsoft Office 16\ClientX86\Root\Office16\Excel.exe
+excel.exe,\Program Files\Microsoft Office 16\ClientX64\Root\Office16\Excel.exe
+excel.exe,\Program Files\Microsoft Office\root\Office16\excel.exe
+excel.exe,\Program Files (x86)\Microsoft Office\root\Office16\excel.exe
+excel.exe,\Program Files (x86)\Microsoft Office\Office16\Excel.exe
+excel.exe,\Program Files\Microsoft Office\Office16\Excel.exe
+excel.exe,\Program Files (x86)\Microsoft Office 15\ClientX86\Root\Office15\Excel.exe
+excel.exe,\Program Files\Microsoft Office 15\ClientX64\Root\Office15\Excel.exe
+excel.exe,\Program Files (x86)\Microsoft Office\Office15\Excel.exe
+excel.exe,\Program Files\Microsoft Office\Office15\Excel.exe
+excel.exe,\Program Files (x86)\Microsoft Office 14\ClientX86\Root\Office14\Excel.exe
+excel.exe,\Program Files\Microsoft Office 14\ClientX64\Root\Office14\Excel.exe
+excel.exe,\Program Files (x86)\Microsoft Office\Office14\Excel.exe
+excel.exe,\Program Files\Microsoft Office\Office14\Excel.exe
+excel.exe,\Program Files (x86)\Microsoft Office\Office12\Excel.exe
+excel.exe,\Program Files\Microsoft Office\Office12\Excel.exe
+excel.exe,\Program Files\Microsoft Office\Office12\Excel.exe
+fsi.exe,\Program Files\dotnet\sdk\*\FSharp\fsi.exe
+fsi.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\FSharp\fsi.exe
+fsi.exe,\Program Files\dotnet\sdk\*\FSharp\fsi.exe
+fsi.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\FSharp\fsi.exe
+fsianycpu.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\FSharp\fsianycpu.exe
+fsianycpu.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\FSharp\fsianycpu.exe
+mftrace.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.16299.0\x86\mftrace.exe
+mftrace.exe,\Program Files (x86)\Windows Kits\10\bin\10.0.16299.0\x64\mftrace.exe
+mftrace.exe,\Program Files (x86)\Windows Kits\10\bin\x86\mftrace.exe
+mftrace.exe,\Program Files (x86)\Windows Kits\10\bin\x64\mftrace.exe
+microsoft.nodejstools.pressanykey.exe,\Program Files\Microsoft Visual Studio\*\Community\Common7\IDE\Extensions\Microsoft\NodeJsTools\NodeJsTools\Microsoft.NodejsTools.PressAnyKey.exe
+microsoft.nodejstools.pressanykey.exe,\Program Files (x86)\Microsoft Visual Studio\*\Community\Common7\IDE\Extensions\Microsoft\NodeJsTools\NodeJsTools\Microsoft.NodejsTools.PressAnyKey.exe
+msaccess.exe,\Program Files (x86)\Microsoft Office 16\ClientX86\Root\Office16\MSAccess.exe
+msaccess.exe,\Program Files\Microsoft Office 16\ClientX64\Root\Office16\MSAccess.exe
+msaccess.exe,\Program Files (x86)\Microsoft Office\Office16\MSAccess.exe
+msaccess.exe,\Program Files\Microsoft Office\Office16\MSAccess.exe
+msaccess.exe,\Program Files (x86)\Microsoft Office 15\ClientX86\Root\Office15\MSAccess.exe
+msaccess.exe,\Program Files\Microsoft Office 15\ClientX64\Root\Office15\MSAccess.exe
+msaccess.exe,\Program Files (x86)\Microsoft Office\Office15\MSAccess.exe
+msaccess.exe,\Program Files\Microsoft Office\Office15\MSAccess.exe
+msaccess.exe,\Program Files (x86)\Microsoft Office 14\ClientX86\Root\Office14\MSAccess.exe
+msaccess.exe,\Program Files\Microsoft Office 14\ClientX64\Root\Office14\MSAccess.exe
+msaccess.exe,\Program Files (x86)\Microsoft Office\Office14\MSAccess.exe
+msaccess.exe,\Program Files\Microsoft Office\Office14\MSAccess.exe
+msaccess.exe,\Program Files (x86)\Microsoft Office\Office12\MSAccess.exe
+msaccess.exe,\Program Files\Microsoft Office\Office12\MSAccess.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V2\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V2\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V4\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V4\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V5\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V5\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V2\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V2\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V4\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V4\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V5\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V5\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V2\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V2\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V4\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V4\msdeploy.exe
+msdeploy.exe,\Program Files\IIS\Microsoft Web Deploy V5\msdeploy.exe
+msdeploy.exe,\Program Files (x86)\IIS\Microsoft Web Deploy V5\msdeploy.exe
+msohtmed.exe,\Program Files (x86)\Microsoft Office 16\ClientX86\Root\Office16\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office 16\ClientX64\Root\Office16\MSOHTMED.exe
+msohtmed.exe,\Program Files (x86)\Microsoft Office\Office16\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office\Office16\MSOHTMED.exe
+msohtmed.exe,\Program Files (x86)\Microsoft Office 15\ClientX86\Root\Office15\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office 15\ClientX64\Root\Office15\MSOHTMED.exe
+msohtmed.exe,\Program Files (x86)\Microsoft Office\Office15\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office\Office15\MSOHTMED.exe
+msohtmed.exe,\Program Files (x86)\Microsoft Office 14\ClientX86\Root\Office14\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office 14\ClientX64\Root\Office14\MSOHTMED.exe
+msohtmed.exe,\Program Files (x86)\Microsoft Office\Office14\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office\Office14\MSOHTMED.exe
+msohtmed.exe,\Program Files (x86)\Microsoft Office\Office12\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office\Office12\MSOHTMED.exe
+msohtmed.exe,\Program Files\Microsoft Office\Office12\MSOHTMED.exe
+mspub.exe,\Program Files (x86)\Microsoft Office 16\ClientX86\Root\Office16\MSPUB.exe
+mspub.exe,\Program Files\Microsoft Office 16\ClientX64\Root\Office16\MSPUB.exe
+mspub.exe,\Program Files (x86)\Microsoft Office\Office16\MSPUB.exe
+mspub.exe,\Program Files\Microsoft Office\Office16\MSPUB.exe
+mspub.exe,\Program Files (x86)\Microsoft Office 15\ClientX86\Root\Office15\MSPUB.exe
+mspub.exe,\Program Files\Microsoft Office 15\ClientX64\Root\Office15\MSPUB.exe
+mspub.exe,\Program Files (x86)\Microsoft Office\Office15\MSPUB.exe
+mspub.exe,\Program Files\Microsoft Office\Office15\MSPUB.exe
+mspub.exe,\Program Files (x86)\Microsoft Office 14\ClientX86\Root\Office14\MSPUB.exe
+mspub.exe,\Program Files\Microsoft Office 14\ClientX64\Root\Office14\MSPUB.exe
+mspub.exe,\Program Files (x86)\Microsoft Office\Office14\MSPUB.exe
+mspub.exe,\Program Files\Microsoft Office\Office14\MSPUB.exe
+msxsl.exe,no default
+msxsl.exe,no default
+msxsl.exe,no default
+msxsl.exe,no default
+msxsl.exe,no default
+msxsl.exe,no default
+ntdsutil.exe,\Windows\System32\ntdsutil.exe
+openconsole.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\Terminal\ServiceHub\os64\OpenConsole.exe
+openconsole.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\Terminal\ServiceHub\os86\OpenConsole.exe
+openconsole.exe,\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Terminal\ServiceHub\os64\OpenConsole.exe
+openconsole.exe,\Program Files\WindowsApps\Microsoft.WindowsTerminal_*_x64__8wekyb3d8bbwe\OpenConsole.exe
+powerpnt.exe,\Program Files (x86)\Microsoft Office 16\ClientX86\Root\Office16\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office 16\ClientX64\Root\Office16\Powerpnt.exe
+powerpnt.exe,\Program Files (x86)\Microsoft Office\Office16\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office\Office16\Powerpnt.exe
+powerpnt.exe,\Program Files (x86)\Microsoft Office 15\ClientX86\Root\Office15\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office 15\ClientX64\Root\Office15\Powerpnt.exe
+powerpnt.exe,\Program Files (x86)\Microsoft Office\Office15\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office\Office15\Powerpnt.exe
+powerpnt.exe,\Program Files (x86)\Microsoft Office 14\ClientX86\Root\Office14\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office 14\ClientX64\Root\Office14\Powerpnt.exe
+powerpnt.exe,\Program Files (x86)\Microsoft Office\Office14\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office\Office14\Powerpnt.exe
+powerpnt.exe,\Program Files (x86)\Microsoft Office\Office12\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office\Office12\Powerpnt.exe
+powerpnt.exe,\Program Files\Microsoft Office\Office12\Powerpnt.exe
+procdump.exe,no default
+procdump.exe,no default
+protocolhandler.exe,\Program Files (x86)\Microsoft Office 16\ClientX86\Root\Office16\ProtocolHandler.exe
+protocolhandler.exe,\Program Files\Microsoft Office 16\ClientX64\Root\Office16\ProtocolHandler.exe
+protocolhandler.exe,\Program Files (x86)\Microsoft Office\Office16\ProtocolHandler.exe
+protocolhandler.exe,\Program Files\Microsoft Office\Office16\ProtocolHandler.exe
+protocolhandler.exe,\Program Files (x86)\Microsoft Office 15\ClientX86\Root\Office15\ProtocolHandler.exe
+protocolhandler.exe,\Program Files\Microsoft Office 15\ClientX64\Root\Office15\ProtocolHandler.exe
+protocolhandler.exe,\Program Files (x86)\Microsoft Office\Office15\ProtocolHandler.exe
+protocolhandler.exe,\Program Files\Microsoft Office\Office15\ProtocolHandler.exe
+rcsi.exe,no default
+rcsi.exe,no default
+remote.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\remote.exe
+remote.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\remote.exe
+remote.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\remote.exe
+remote.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\remote.exe
+remote.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x64\remote.exe
+remote.exe,\Program Files (x86)\Windows Kits\10\Debuggers\x86\remote.exe
+sqldumper.exe,\Program Files\Microsoft SQL Server\*\Shared\SQLDumper.exe
+sqldumper.exe,\Program Files (x86)\Microsoft Office\root\vfs\ProgramFilesX86\Microsoft Analysis\AS OLEDB\140\SQLDumper.exe
+sqldumper.exe,\Program Files\Microsoft Power BI Desktop\bin\SqlDumper.exe
+sqldumper.exe,\Program Files\Microsoft SQL Server\90\Shared\SQLDumper.exe
+sqldumper.exe,\Program Files (x86)\Microsoft Office\root\vfs\ProgramFilesX86\Microsoft Analysis\AS OLEDB\140\SQLDumper.exe
+sqldumper.exe,\Program Files\Microsoft Power BI Desktop\bin\SqlDumper.exe
+sqlps.exe,\Program files (x86)\Microsoft SQL Server\100\Tools\Binn\sqlps.exe
+sqlps.exe,\Program files (x86)\Microsoft SQL Server\110\Tools\Binn\sqlps.exe
+sqlps.exe,\Program files (x86)\Microsoft SQL Server\120\Tools\Binn\sqlps.exe
+sqlps.exe,\Program files (x86)\Microsoft SQL Server\130\Tools\Binn\sqlps.exe
+sqlps.exe,\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\SQLPS.exe
+sqltoolsps.exe,\Program files (x86)\Microsoft SQL Server\130\Tools\Binn\sqlps.exe
+te.exe,no default
+te.exe,no default
+teams.exe,\Users\*\AppData\Local\Microsoft\Teams\current\Teams.exe
+teams.exe,\Users\*\AppData\Local\Microsoft\Teams\current\Teams.exe
+teams.exe,\Users\*\AppData\Local\Microsoft\Teams\current\Teams.exe
+testwindowremoteagent.exe,\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\RemoteAgent\TestWindowRemoteAgent.exe
+tracker.exe,no default
+tracker.exe,no default
+vsdiagnostics.exe,\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe
+vsdiagnostics.exe,\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe
+vsiisexelauncher.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Web Tools\ProjectSystem\VSIISExeLauncher.exe
+visio.exe,\Program Files (x86)\Microsoft Office\Office14\Visio.exe
+visio.exe,\Program Files\Microsoft Office\Office14\Visio.exe
+visio.exe,\Program Files (x86)\Microsoft Office\Office15\Visio.exe
+visio.exe,\Program Files\Microsoft Office\Office15\Visio.exe
+visio.exe,\Program Files (x86)\Microsoft Office\Office16\Visio.exe
+visio.exe,\Program Files\Microsoft Office\Office16\Visio.exe
+visio.exe,\Program Files (x86)\Microsoft Office\root\Office14\Visio.exe
+visio.exe,\Program Files\Microsoft Office\root\Office14\Visio.exe
+visio.exe,\Program Files (x86)\Microsoft Office\root\Office15\Visio.exe
+visio.exe,\Program Files\Microsoft Office\root\Office15\Visio.exe
+visio.exe,\Program Files (x86)\Microsoft Office\root\Office16\Visio.exe
+visio.exe,\Program Files\Microsoft Office\root\Office16\Visio.exe
+visualuiaverifynative.exe,\Program Files (x86)\Windows Kits\10\bin\*\arm64\UIAVerify\VisualUiaVerifyNative.exe
+visualuiaverifynative.exe,\Program Files (x86)\Windows Kits\10\bin\*\x64\UIAVerify\VisualUiaVerifyNative.exe
+visualuiaverifynative.exe,\Program Files (x86)\Windows Kits\10\bin\*\UIAVerify\VisualUiaVerifyNative.exe
+vslaunchbrowser.exe,\Program Files\Microsoft Visual Studio\*\Community\Common7\IDE\VSLaunchBrowser.exe
+vslaunchbrowser.exe,\Program Files (x86)\Microsoft Visual Studio\*\Community\Common7\IDE\VSLaunchBrowser.exe
+vslaunchbrowser.exe,\Program Files\Microsoft Visual Studio\*\Community\Common7\IDE\VSLaunchBrowser.exe
+vslaunchbrowser.exe,\Program Files (x86)\Microsoft Visual Studio\*\Community\Common7\IDE\VSLaunchBrowser.exe
+vslaunchbrowser.exe,\Program Files\Microsoft Visual Studio\*\Community\Common7\IDE\VSLaunchBrowser.exe
+vslaunchbrowser.exe,\Program Files (x86)\Microsoft Visual Studio\*\Community\Common7\IDE\VSLaunchBrowser.exe
+vshadow.exe,\Program Files (x86)\Windows Kits\10\bin\*\x64\vshadow.exe
+vsjitdebugger.exe,\windows\system32\vsjitdebugger.exe
+wfmformat.exe,\there\is\no\default\installation\path\WFMFormat.exe
+wfc.exe,\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\wfc.exe
+winproj.exe,\Program Files (x86)\Microsoft Office\Office14\WinProj.exe
+winproj.exe,\Program Files\Microsoft Office\Office14\WinProj.exe
+winproj.exe,\Program Files (x86)\Microsoft Office\Office15\WinProj.exe
+winproj.exe,\Program Files\Microsoft Office\Office15\WinProj.exe
+winproj.exe,\Program Files (x86)\Microsoft Office\Office16\WinProj.exe
+winproj.exe,\Program Files\Microsoft Office\Office16\WinProj.exe
+winproj.exe,\Program Files (x86)\Microsoft Office\root\Office14\WinProj.exe
+winproj.exe,\Program Files\Microsoft Office\root\Office14\WinProj.exe
+winproj.exe,\Program Files (x86)\Microsoft Office\root\Office15\WinProj.exe
+winproj.exe,\Program Files\Microsoft Office\root\Office15\WinProj.exe
+winproj.exe,\Program Files (x86)\Microsoft Office\root\Office16\WinProj.exe
+winproj.exe,\Program Files\Microsoft Office\root\Office16\WinProj.exe
+winword.exe,\Program Files\Microsoft Office\root\Office16\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office 16\ClientX86\Root\Office16\winword.exe
+winword.exe,\Program Files\Microsoft Office 16\ClientX64\Root\Office16\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office\root\Office16\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office\Office16\winword.exe
+winword.exe,\Program Files\Microsoft Office\Office16\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office 15\ClientX86\Root\Office15\winword.exe
+winword.exe,\Program Files\Microsoft Office 15\ClientX64\Root\Office15\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office\Office15\winword.exe
+winword.exe,\Program Files\Microsoft Office\Office15\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office 14\ClientX86\Root\Office14\winword.exe
+winword.exe,\Program Files\Microsoft Office 14\ClientX64\Root\Office14\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office\Office14\winword.exe
+winword.exe,\Program Files\Microsoft Office\Office14\winword.exe
+winword.exe,\Program Files (x86)\Microsoft Office\Office12\winword.exe
+winword.exe,\Program Files\Microsoft Office\Office12\winword.exe
+winword.exe,\Program Files\Microsoft Office\Office12\winword.exe
+wsl.exe,\Windows\System32\wsl.exe
+wsl.exe,\Windows\System32\wsl.exe
+wsl.exe,\Windows\System32\wsl.exe
+wsl.exe,\Windows\System32\wsl.exe
+xbootmgrsleep.exe,\Program Files\Windows Kits\10\Windows Performance Toolkit\xbootmgrsleep.exe
+xbootmgrsleep.exe,\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\xbootmgrsleep.exe
+devtunnel.exe,\Users\*\AppData\Local\Temp\.net\devtunnel\devtunnel.exe
+devtunnel.exe,\Users\*\AppData\Local\Temp\DevTunnels\devtunnel.exe
+vsls-agent.exe,\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\Extensions\Microsoft\LiveShare\Agent\vsls-agent.exe
+vstest.console.exe,\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe
+vstest.console.exe,\Program Files (x86)\Microsoft Visual Studio\2022\TestAgent\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe
+winfile.exe,\Windows\System32\winfile.exe
+winfile.exe,\Windows\winfile.exe
+winfile.exe,\Program Files\WinFile\winfile.exe
+winfile.exe,\Program Files (x86)\WinFile\winfile.exe
+winfile.exe,\Program Files\WindowsApps\Microsoft.WindowsFileManager_10.3.0.0_x64__8wekyb3d8bbwe\WinFile\winfile.exe
+xsd.exe,\Program Files (x86)\Microsoft SDKs\Windows\*\bin\NETFX * Tools\xsd.exe
+cl_loadassembly.ps1,\Windows\diagnostics\system\Audio\CL_LoadAssembly.ps1
+cl_mutexverifiers.ps1,\Windows\diagnostics\system\WindowsUpdate\CL_Mutexverifiers.ps1
+cl_mutexverifiers.ps1,\Windows\diagnostics\system\Audio\CL_Mutexverifiers.ps1
+cl_mutexverifiers.ps1,\Windows\diagnostics\system\WindowsUpdate\CL_Mutexverifiers.ps1
+cl_mutexverifiers.ps1,\Windows\diagnostics\system\Video\CL_Mutexverifiers.ps1
+cl_mutexverifiers.ps1,\Windows\diagnostics\system\Speech\CL_Mutexverifiers.ps1
+cl_invocation.ps1,\Windows\diagnostics\system\AERO\CL_Invocation.ps1
+cl_invocation.ps1,\Windows\diagnostics\system\Audio\CL_Invocation.ps1
+cl_invocation.ps1,\Windows\diagnostics\system\WindowsUpdate\CL_Invocation.ps1
+launch-vsdevshell.ps1,\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\Launch-VsDevShell.ps1
+launch-vsdevshell.ps1,\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\Launch-VsDevShell.ps1
+launch-vsdevshell.ps1,\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\Launch-VsDevShell.ps1
+launch-vsdevshell.ps1,\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\Launch-VsDevShell.ps1
+manage-bde.wsf,\Windows\System32\manage-bde.wsf
+manage-bde.wsf,\Windows\System32\manage-bde.wsf
+pubprn.vbs,\Windows\System32\Printing_Admin_Scripts\en-US\pubprn.vbs
+pubprn.vbs,\Windows\SysWOW64\Printing_Admin_Scripts\en-US\pubprn.vbs
+syncappvpublishingserver.vbs,\Windows\System32\SyncAppvPublishingServer.vbs
+utilityfunctions.ps1,\Windows\diagnostics\system\Networking\UtilityFunctions.ps1
+winrm.vbs,\Windows\System32\winrm.vbs
+winrm.vbs,\Windows\SysWOW64\winrm.vbs
+winrm.vbs,\Windows\System32\winrm.vbs
+winrm.vbs,\Windows\SysWOW64\winrm.vbs
+winrm.vbs,\Windows\System32\winrm.vbs
+winrm.vbs,\Windows\SysWOW64\winrm.vbs
+pester.bat,\Program Files\WindowsPowerShell\Modules\Pester\*\bin\Pester.bat
+pester.bat,\Program Files\WindowsPowerShell\Modules\Pester\*\bin\Pester.bat
