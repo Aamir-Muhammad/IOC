@@ -6,7 +6,7 @@ Filename,Paths
 """appinstaller.exe""","""C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.11.2521.0_x64__8wekyb3d8bbwe\\AppInstaller.exe"""
 """aspnet_compiler.exe""","""C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\aspnet_compiler.exe"""
 """aspnet_compiler.exe""","""C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\aspnet_compiler.exe"""
-"""at.exe""","""C:\\\\WINDOWS\\\\System32\\\\At.exe"""
+"""at.exe""","""C:\\WINDOWS\\System32\\At.exe"""
 """at.exe""","""C:\\WINDOWS\\SysWOW64\\At.exe"""
 """atbroker.exe""","""C:\\Windows\\System32\\Atbroker.exe"""
 """atbroker.exe""","""C:\\Windows\\SysWOW64\\Atbroker.exe"""
